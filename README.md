@@ -1,14 +1,19 @@
 <div align="center">
  <a href="https://github.com/PedroWoicoleskoCrespo">
-  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroWoicoleskoCrespo&theme=dark&show_icons=true&icon_color=ffac1c&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&border_radius=5" alt="PedroWoicoleskoCrespo" />
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroWoicoleskoCrespo&theme=dark&show_icons=true&icon_color=ffac1c&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&border_radius=5" alt="PedroWoicoleskoCrespo" />
+  <img align="center" src='https://github-readme-stats.vercel.app/api?username=PedroWoicoleskoCrespo&theme=dark&show_icons=true&icon_color=ffac1c&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&card_width=500px&border_radius=5' alt="PedroWoicoleskoCrespo" />
  </a>
 </div>
 
-<br>
+<div align="center">
+ <a href="https://github.com/PedroWoicoleskoCrespo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroWoicoleskoCrespo&langs_count=6&layout=compact&theme=dark&hide_border=true&card_width=500px&border_radius=5" alt="PedroWoicoleskoCrespo" />
+ </a>
+</div>
 
 <div align="center">
- <img src="https://img.shields.io/github/followers/PedroWoicoleskoCrespo?style=for-the-badge&color=orange" />
+ <a href="https://github.com/PedroWoicoleskoCrespo">
+  <img align="center" src="https://streak-stats.demolab.com?user=PedroWoicoleskoCrespo&theme=dark&hide_border=true&border_radius=5&card_width=500" alt="PedroWoicoleskoCrespo" />
+ </a>
 </div>
 
 <!--
